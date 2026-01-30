@@ -14,6 +14,12 @@ It demonstrates the use of **semantic HTML elements** for structure and accessib
 
 ---
 
+## Live link
+
+[Resume Assignment (HTML Only)](https://web-dev-2026-html-resume-page-assig.vercel.app/)
+
+---
+
 ## 🛠️ Setup Instructions
 
 1. Clone the repository:
